@@ -11,6 +11,7 @@ Also it can be used for msedge and brave, but in original code we have some erro
 There is no publicly available source code for a program that can fully retrieve the App Bound key without administrator privileges. The method used by @xaitax also requires administrator rights to move into the Program Files directory. 
 
 So leave a star on this repo and follow me if you found this code useful.
+
 Ref: [Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption/)
 
 
