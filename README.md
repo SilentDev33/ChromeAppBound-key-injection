@@ -1,4 +1,4 @@
-##Chrome Injector
+## Chrome Injector
 
 The modified original code from https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption, converted into a DLL format, along with a simple injector written in C++, allows us to retrieve the App Bound key from any directory and without administrator privileges.
 Original app
