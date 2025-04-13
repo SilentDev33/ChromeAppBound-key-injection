@@ -1,6 +1,6 @@
 ## Chrome Injector
 
-The modified code from [Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption/)https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption, converted into a DLL format, with injector written in C++, allows us to retrieve the App Bound key from any directory and without administrator privileges
+The modified code from [Chrome-App-Bound-Encryption-Decryption] (https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption/)https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption, converted into a DLL format, with injector written in C++, allows us to retrieve the App Bound key from any directory and without administrator privileges
 
 Undetectable by windows defender in 14.04.2025
 
