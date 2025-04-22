@@ -19,7 +19,7 @@ Ref: [Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-A
 
 ## Update: 
 
-So @xaitax posted my method on his repo in better realistion. I will public cookies decryptor based on this method soon. Don't forget to star my repository and subscribe — only unique content will be posted here.
+So @xaitax posted my method on his repo with a better implementation. I’ll be releasing a cookie decryptor based on this method soon. Don’t forget to star my repository and subscribe — only unique content will be posted here
 
 ## For educational purposes only.
 
