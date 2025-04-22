@@ -15,10 +15,11 @@ For use brave or edge change line number 361 in app_bound.cpp and process name v
 
 There is no publicly available source code for a program that can fully retrieve the App Bound key without administrator privileges. The method used by @xaitax also requires administrator rights to move into the Program Files directory. 
 
-So leave a star on this repo and follow me if you found this code useful.
-
 Ref: [Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption/)
 
+## Update: 
+
+So @xaitax posted my method on his repo in better realistion. I will public cookies decryptor based on this method soon. Don't forget to star my repository and subscribe — only unique content will be posted here.
 
 ## For educational purposes only.
 
